@@ -1,0 +1,16 @@
+﻿node_modules/
+dist/
+build/
+.vite/
+.next/
+out/
+coverage/
+*.log
+
+.env
+.env.local
+.env.*
+
+.vscode/
+.DS_Store
+Thumbs.db
